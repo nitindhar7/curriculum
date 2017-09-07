@@ -61,3 +61,7 @@ An agile self-learning curriculum for anyone.
 - Add libraries, frameworks, etc that are on the rise
 - Don't duplicate
 - Send a PR :)
+
+### Misc
+
+[MIT LICENSE](https://github.com/nitindhar7/curriculum/blob/master/LICENSE)
