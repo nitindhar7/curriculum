@@ -55,3 +55,9 @@ An agile self-learning curriculum for anyone.
 
 - http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer
 - http://www.infoq.com/research/javascript-frameworks-2015
+
+### Contribute
+
+- Add libraries, frameworks, etc that are on the rise
+- Don't duplicate
+- Send a PR :)
